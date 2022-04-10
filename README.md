@@ -30,5 +30,5 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanhaiyasuthar0&show_icons=true&locale=en" alt="kanhaiyasuthar0" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanhaiyasuthar0&" alt="kanhaiyasuthar0" /></p>
-https://activity-graph.herokuapp.com/graph?username=kanhaiyasuthar0&theme=react-dark)%5D(https://github.com/Danisk43/github-readme-activity-graph
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanhaiyasuthar0&" alt="kanhaiyasuthar0" /></p> <br/>
+[![Kanhaiya's github activity graph](https://activity-graph.herokuapp.com/graph?username=kanhaiyasuthar0&theme=react-dark)](https://github.com/kanhaiyasuthar0/github-readme-activity-graph)
