@@ -3,7 +3,7 @@
 <p align="center"><img style="width:300px; height:300px" src="https://i.ibb.co/H7506CX/Java-Script-frameworks-rafiki.png" alt="kanhaiyasuthar0" /> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kanhaiyasuthar0&label=Profile%20views&color=0e75b6&style=flat" alt="kanhaiyasuthar0" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanhaiyasuthar0" alt="kanhaiyasuthar0" /></a> </p>
+
 
 <p align="center"> <a href="https://twitter.com/sutharkanhaiya" target="blank"><img src="https://img.shields.io/twitter/follow/sutharkanhaiya?logo=twitter&style=for-the-badge" alt="sutharkanhaiya" /></a> </p>
 
