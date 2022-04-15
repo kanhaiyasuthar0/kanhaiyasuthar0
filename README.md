@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **ExpressJs and MongoDb**
 
-- 👨‍💻 All of my projects are available at [https://kanhaiyasuthar-portfolio.netlify.app/](https://kanhaiyasuthar-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://kanhaiyasuthar.netlify.app/](https://kanhaiyasuthar.netlify.app/)
 
 - 💬 Ask me about **react, redux, boostap, material ui, styled components, js**
 
