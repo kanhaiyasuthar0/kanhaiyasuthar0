@@ -12,7 +12,7 @@
 <h2 align="center">🌟 Featured Project: GupShupIndia 🌟</h2>
 <p align="center">
     <a href="https://chatapp-weld-three.vercel.app/chat">
-        <img src="YOUR_PROJECT_IMAGE_URL" alt="GupShupIndia" width="600"/>
+        <img src="https://ibb.co/hXb08Lf" alt="GupShupIndia" width="600"/>
     </a>
 </p>
 
@@ -27,7 +27,7 @@
     <ul>
         <li>Real-time messaging</li>
         <li>User-friendly interface</li>
-        <li>Group chat functionality</li>
+        <li>End to end encryption of message</li>
         <li>Media sharing capabilities</li>
     </ul>
 </p>
