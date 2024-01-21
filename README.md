@@ -9,6 +9,48 @@
     <img src="https://komarev.com/ghpvc/?username=kanhaiyasuthar0&label=Profile%20Views&color=blueviolet&style=flat-square" alt="kanhaiyasuthar0" />
 </p>
 
+<h2 align="center">🌟 Featured Project: GupShupIndia 🌟</h2>
+<p align="center">
+    <a href="https://chatapp-weld-three.vercel.app/chat">
+        <img src="YOUR_PROJECT_IMAGE_URL" alt="GupShupIndia" width="600"/>
+    </a>
+</p>
+
+<h3 align="center">GupShupIndia - Connect, Communicate, Collaborate</h3>
+<p align="center">
+    An interactive chat application designed to bring people together. 
+    Built with modern web technologies for a seamless chatting experience.
+</p>
+
+<p align="center">
+    <b>Key Features:</b>
+    <ul>
+        <li>Real-time messaging</li>
+        <li>User-friendly interface</li>
+        <li>Group chat functionality</li>
+        <li>Media sharing capabilities</li>
+    </ul>
+</p>
+
+<p align="center">
+    <b>Technologies Used:</b>
+    <ul>
+        <li>React.js</li>
+        <li>Node.js</li>
+        <li>Socket.io</li>
+        <li>Other dependencies...</li>
+    </ul>
+</p>
+
+<p align="center">
+    <a href="https://chatapp-weld-three.vercel.app/chat">
+        <img src="https://img.shields.io/badge/-View_Project-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="View Project"/>
+    </a>
+</p>
+
+
+
+
 <p align="center">
     <a href="https://twitter.com/sutharkanhaiya" target="blank">
         <img src="https://img.shields.io/twitter/follow/sutharkanhaiya?logo=twitter&style=social" alt="sutharkanhaiya" />
