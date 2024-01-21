@@ -12,7 +12,7 @@
 <h2 align="center">🌟 Featured Project: GupShupIndia 🌟</h2>
 <p align="center">
     <a href="https://chatapp-weld-three.vercel.app/chat">
-        <img src="https://ibb.co/hXb08Lf" alt="GupShupIndia" width="600"/>
+        <img src="https://kanhaiya-suthar.imgbb.com/" alt="GupShupIndia" width="600"/>
     </a>
 </p>
 
